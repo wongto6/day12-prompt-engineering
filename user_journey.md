@@ -60,6 +60,8 @@ you are a business analyst, please help to draft the as-is user journey by refer
 Reynolds.
 your as-is user journey should contain scenario, goal, main activity, concrete behaviour, mood curve and opportunity
 
+please convert the above content into table format and return in markdown, columns are main activity, concrete behavior ,mood curve and opportunity
+
 and then please use the as-is user journey to write to-be user journey (please focus on addressing the pain points
 identified in the As-is scenario, it proposes targeted solutions to create a completely new user journey).
 
